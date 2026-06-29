@@ -1,0 +1,207 @@
+canonical_identifier: bkk:krp/KR3ed132/v1
+canonical_location: https://kanripo.org/bkk/KR3ed132/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫方拾錦
+  identifiers:
+    krp: KR3ed132
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed132.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed132_000.yaml, hash: 'sha256:8869fec2a8b212adb4b26cdcbcf6c94f1485efb45f55c03118a7e5e0bd1d3987'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed132_000.markers.yaml, hash: 'sha256:e94d0a9564fb78b45604b6c54a392c3fb008a6981bf0955a56fcb39c0d2fc443'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 246
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 675
+  label: 一頭方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d4.h1s1
+    span:
+    - body
+    - 675
+    - 1655
+  label: 二面方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d5.h1s1
+    span:
+    - body
+    - 1655
+    - 1857
+  label: 三耳方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d6.h1s1
+    span:
+    - body
+    - 1857
+    - 2081
+  label: 四目方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d7.h1s1
+    span:
+    - body
+    - 2081
+    - 2710
+  label: 五口方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d8.h1s1
+    span:
+    - body
+    - 2710
+    - 3044
+  label: 六齒方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d9.h1s1
+    span:
+    - body
+    - 3044
+    - 3230
+  label: 七鼻方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d10.h1s1
+    span:
+    - body
+    - 3230
+    - 3481
+  label: 八聲音方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d11.h1s1
+    span:
+    - body
+    - 3481
+    - 4210
+  label: 九周身方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d12.h1s1
+    span:
+    - body
+    - 4210
+    - 4539
+  label: 十茶酒方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d13.h1s1
+    span:
+    - body
+    - 4539
+    - 5061
+  label: 十一雜方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d14.h1s1
+    span:
+    - body
+    - 5061
+    - 5390
+  label: 十二足方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d15.h1s1
+    span:
+    - body
+    - 5390
+    - 5553
+  label: 十三救飢方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d16.h1s1
+    span:
+    - body
+    - 5553
+    - 5703
+  label: 十四諸傷方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d17.h1s1
+    span:
+    - body
+    - 5703
+    - 6334
+  label: 十五諸蟲傷方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d18.h1s1
+    span:
+    - body
+    - 6334
+    - 6737
+  label: 十六闢蟲方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed132_jc_000-d19.h1s1
+    span:
+    - body
+    - 6737
+    - 6900
+  label: 十七汙衣方
+  type: section
+  level: 1
+hash: sha256:fbe6171fa46ca734d95be28e771e617c26d5fb89f5b4f2c7d2fa21274be9f452
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
