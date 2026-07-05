@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed132_000.yaml, hash: 'sha256:8869fec2a8b212adb4b26cdcbcf6c94f1485efb45f55c03118a7e5e0bd1d3987'}
+  - {seq: 0, filename: KR3ed132_000.yaml, hash: 'sha256:b8bfa3fb4abd3ca2354c70a12014455324d5bfa38556cb426b6c308766a81285'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed132_000.markers.yaml, hash: 'sha256:e94d0a9564fb78b45604b6c54a392c3fb008a6981bf0955a56fcb39c0d2fc443'}
+  - {seq: 0, role: markers, filename: assets/KR3ed132_000.markers.yaml, hash: 'sha256:93848b0915bff9f2f9a758b46ef30cd14f70257a26937586a5c6b82c948687ec'}
 table_of_contents:
 - ref:
     seq: 0
@@ -201,7 +201,4 @@ table_of_contents:
   label: 十七汙衣方
   type: section
   level: 1
-hash: sha256:fbe6171fa46ca734d95be28e771e617c26d5fb89f5b4f2c7d2fa21274be9f452
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5154d0628ad75e5db44d7f54c56d31d514ddbdd148d7860f36725780aa5ec37f
